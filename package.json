@@ -5,7 +5,7 @@
     "author": "Yëco",
     "repository": {
         "type": "git",
-        "url": "http://github.com/erming/jsonresume-theme-edify"
+        "url": "http://github.com/yeco/jsonresume-theme-edify"
     },
     "scripts": {
         "start": "resume serve"
