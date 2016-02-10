@@ -73,6 +73,12 @@ h4 span:first-child {
 	background: #4D5761;
 	padding: 50px 0;
 	margin-bottom: 30px;
+
+	background-image: url(https://cldup.com/GM5iQFvZVf.png);
+    background-repeat: no-repeat;
+    background-position-x: 6%;
+    background-position-y: center;
+    background-size: contain;
 }
 #header h1 {
 	color: #d9edf7;
@@ -82,7 +88,7 @@ h4 span:first-child {
 	font-size: 24px;
 }
 #content h3 {
-	color: #f1c40f;
+	color: #f6a21e;
 	font-size: 26px;
 	margin-top: -4px;
 }
@@ -144,6 +150,9 @@ h4 span:first-child {
 @media (max-width: 768px) {
 	.col-sm-6:last-child {
 		margin-bottom: 0px;
+	}
+	#header {
+    	background-position-x: 96%;
 	}
 	#content aside {
 		margin-bottom: 20px;
