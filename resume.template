@@ -52,12 +52,6 @@
 				<div class="email">{{.}}</div>
 			</div>
 			{{/email}}
-			{{#phone}}
-			<div class="col-sm-6">
-				<strong>Phone</strong>
-				<div class="phone">{{.}}</div>
-			</div>
-			{{/phone}}
 			{{#website}}
 			<div class="col-sm-6">
 				<strong>Website</strong>
